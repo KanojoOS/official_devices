@@ -1,30 +1,27 @@
 {
-   "name": "Henrique Silva",
-   "country": "BR",
-   "github_username": "jhenrique09",
-   "xda_url": "https://forum.xda-developers.com/m/jhenrique09.6519039/",
+   "name": "kristoforusapm",
+   "country": "ID",
+   "github_username": "CEKIKOFGAMERS",
+   "xda_url": "https://xdaforums.com/m/cekikofgamers.12485487/",
    "devices": [
       {
-         "codename": "redfin",
+         "codename": "moonstone",
          "versions": [
-            "thirteen",
-            "thirteen_plus"
+            "ThornPrincess"
          ]
       },
       {
-         "codename": "barbet",
+         "codename": "sunstone",
          "versions": [
-            "thirteen",
-            "thirteen_plus"
+            "ThornPrincess"
          ]
       },
       {
-         "codename": "bramble",
+         "codename": "lavender",
          "versions": [
-            "thirteen",
-            "thirteen_plus"
+            "ThornPrincess"
          ]
       }
    ],
-   "ci_username": "jhenrique09"
+   "ci_username": "CEKIKOFGAMERS"
 }
