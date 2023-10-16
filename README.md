@@ -1,4 +1,4 @@
-# PixelExperience
+# Kanojo OS
 ## Official devices application
 
 Devices repository: [PixelExperience-Devices](https://github.com/PixelExperience-Devices)
